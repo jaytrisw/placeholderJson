@@ -1,5 +1,5 @@
 {
-  "weather": [
+  "weather":
     {
       "lat": 13.2172,
       "lon": 144.4505,
@@ -355,8 +355,7 @@
           "uvi": 6.31
         }
       ]
-    }
-  ],
+    },
   "profile": {
     "name": "typicode"
   }
